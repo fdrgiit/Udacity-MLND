@@ -58,7 +58,7 @@ The following problems are to be solved:
 
 ### Deliverables
 
-- Project report in `./report/Capstone Project Report-Strock Trend Estimator.pdf`
-- Ipython notebook model creation in `./codes/stock_trend_estimator.ipynb` and `./codes/stock_trend_estimator.html`
+- Project report in `./Capstone Project Report.pdf`
+- Ipython notebook model creation in `./Stock_Market.ipynb` and `./stock_market.html`
 
 
