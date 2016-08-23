@@ -1,6 +1,6 @@
 # Degree Capstone Project
 
-## Stock Trend Estimator
+## Predicting Stock Market
 
 ### Project Requirement
 
@@ -60,23 +60,5 @@ The following problems are to be solved:
 
 - Project report in `./report/Capstone Project Report-Strock Trend Estimator.pdf`
 - Ipython notebook model creation in `./codes/stock_trend_estimator.ipynb` and `./codes/stock_trend_estimator.html`
-- Command-line user interface in `./codes/Stock_Trend_Estimator.py`
-
-
-### Command-line user interface
-
-usage: Stock_Trend_Estimator.py [-h] [-n FORCAST] [-e ENDT] [-s STARTT] [-debug] Ticker Symbol List [Ticker Symbol List ...]
-
-function: Predict stocks trend in a number of days
-
-positional arguments: Ticker Symbol List  Ticker Symbol List For Prediction
-
-optional arguments:
--  -h, --help:    show this help message and exit
--  -n FORCAST:    No. of days of stock prediction (default: 5 days)
--  -e ENDT   :    end time of model training (default: today), YYYY/MM/DD
--  -s STARTT :    end time of model training (default: 2000/01/01)
--  -debug    :    turn on debug mode
-
 
 
