@@ -9,6 +9,7 @@ Projects completed by me during Machine Learning Nanodegree program at Udacity
   - Data Modelling
   - Evaluation & Validation
   - Managing Error & Complexity
+  
 **Supervised Learning**
   - Supervised Learning Tasks
   - Decision Trees
@@ -17,10 +18,12 @@ Projects completed by me during Machine Learning Nanodegree program at Udacity
   - Nonparametric Models
   - Bayesian Methods
   - Ensemble of Learners
+  
 **Unsupervised Learning**
   - Clustering
   - Feature Engineering
   - Dimensionality Reduction
+  
 **Reinforcement Learning**
   - Reinforcement Learning
   - Game Theory
